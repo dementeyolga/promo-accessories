@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/promo-accessories/static/css/main.9a7b28ae.css",
+    "main.js": "/promo-accessories/static/js/main.2d190c00.js",
+    "static/media/Montserrat-Medium.ttf": "/promo-accessories/static/media/Montserrat-Medium.3a0917345468c959207a.ttf",
+    "static/media/Montserrat-Bold.ttf": "/promo-accessories/static/media/Montserrat-Bold.63fae500fdcf19ce83d4.ttf",
+    "static/media/Montserrat-Light.ttf": "/promo-accessories/static/media/Montserrat-Light.f0963fd9968fbd54cc35.ttf",
+    "static/media/Montserrat-Regular.ttf": "/promo-accessories/static/media/Montserrat-Regular.ac98a5f5ca71180fe293.ttf",
+    "static/media/Montserrat-Black.ttf": "/promo-accessories/static/media/Montserrat-Black.1b9fba4a75b89b0dd96a.ttf",
+    "static/media/Montserrat-ExtraLight.ttf": "/promo-accessories/static/media/Montserrat-ExtraLight.b70ef3d0e89b27907868.ttf",
+    "static/media/Montserrat-Thin.ttf": "/promo-accessories/static/media/Montserrat-Thin.e8ecb9f79ef9cbd2d9a8.ttf",
+    "static/media/Iconfont.woff2": "/promo-accessories/static/media/Iconfont.e26f716a858e2bffcba3.woff2",
+    "index.html": "/promo-accessories/index.html",
+    "main.9a7b28ae.css.map": "/promo-accessories/static/css/main.9a7b28ae.css.map",
+    "main.2d190c00.js.map": "/promo-accessories/static/js/main.2d190c00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a7b28ae.css",
+    "static/js/main.2d190c00.js"
+  ]
+}
